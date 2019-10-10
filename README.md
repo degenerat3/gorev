@@ -1,5 +1,5 @@
 # gorev
-cross platform reverse shell with golang
+cross-platform reverse shell with golang for linux, windows, freebsd
 
 ## Usage 
 
